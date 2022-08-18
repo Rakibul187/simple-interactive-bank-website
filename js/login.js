@@ -1,4 +1,4 @@
-// step 2 : add click event handler with the submit button 
+// step 1 : add click event handler with the submit button 
 document.getElementById('submit-btn').addEventListener('click', function () {
     // step 2 : get the emaill adress inside the email input field
     // always remember to get text from input use value
